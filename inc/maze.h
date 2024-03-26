@@ -1,10 +1,10 @@
 #ifndef MAZE_H
 #define MAZE_H
 
-#ifdef LINUX
+#ifdef __linux__
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_thread.h>
-#elif defined(MAC)
+#elif defined(__APPLE__)
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_thread.h>
 #else
