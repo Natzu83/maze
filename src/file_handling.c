@@ -1,7 +1,7 @@
 #include "/home/omar/Documents/maze/inc/maze.h"
 
 /**
- * close_file - closes an opened file
+ * close_file - closes file
  * @fp: File pointer
  * Return: nothing
  */
@@ -48,7 +48,7 @@ FILE *open_file(char *filename)
 }
 
 /**
- * read_file - reads the content of a file
+ * read_file - reads file
  * @fp: File pointer
  * Return: map_t data structure containing map data
  */
