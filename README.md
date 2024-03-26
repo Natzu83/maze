@@ -7,6 +7,10 @@ The player can move through the maze and turn left or right as desired.
 If the player hits a wall, they cannot move unless they change their direction. Because the walls are solid objects.
 
 The player can move on several directions and rotate in the same time.
+
+Flowchart
+![mazeflowedit](https://github.com/Natzu83/maze/assets/130172504/838568cc-d4a3-4c2d-b504-560dfb3cb2d1)
+
 Installation
 
 Compiling
