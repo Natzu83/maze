@@ -2,8 +2,8 @@
 
 /**
  * shade_walls - Sets the color to paint walls based on orientation
- * @color_ref: Pointer to color data structure
- * @orientation: Side in which the ray is hitting. (1) up/down
+ * @color_ref: Pointer of the color data structure
+ * @orientation: The side in which the ray is hitting. (1) up/down
  * (2) left/right
  * Return: nothing
  */
