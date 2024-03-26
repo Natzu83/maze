@@ -1,4 +1,4 @@
-#include "../inc/maze.h"
+#include "/home/omar/Documents/maze/inc/maze.h"
 
 /**
  * rotate_point - rotates an SDL_Point from an arbitrary center by @deg

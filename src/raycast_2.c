@@ -1,4 +1,4 @@
-#include "../inc/maze.h"
+#include "/home/omar/Documents/maze/inc/maze.h"
 
 /**
  * untextured_sky - Draws untextured ceiling to the screen

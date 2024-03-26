@@ -1,4 +1,4 @@
-#include "../inc/maze.h"
+#include "/home/omar/Documents/maze/inc/maze.h"
 
 /**
  * draw_2d_map - creates 2d points to the screen

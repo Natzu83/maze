@@ -1,6 +1,4 @@
-#include "../inc/maze.h"
-
-
+#include "/home/omar/Documents/maze/inc/maze.h"
 
 /**
  * count_rows - counts the number of lines in a file
