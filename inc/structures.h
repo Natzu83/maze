@@ -46,9 +46,9 @@ typedef struct map
 } map_t;
 
 /**
- * struct line - Data structure that represents a line
- * @p1: start of line. Contains it's x and y coordinates
- * @p2: end of line. Contains it's x and y coordinates
+ * struct line - Data structure that represents the line
+ * @p1: start of line. Contains the x and y coordinates
+ * @p2: end of line. Contains the x and y coordinates
  */
 typedef struct line
 {
@@ -57,10 +57,10 @@ typedef struct line
 } line;
 
 /**
- * struct thread_data - Holds data that will be used during multi-threading
- * @sdl: structure of sdl_instance
- * @map: structure of map_t
- * @player: structure of player
+ * struct thread_data - Holds the data that will be used during multi-threading
+ * @sdl: structure sdl_instance
+ * @map: structure map_t
+ * @player: structure player
  * @map_active: pointer to boolean for checking map status
  * @quit: pointer to integer for program state
  */
